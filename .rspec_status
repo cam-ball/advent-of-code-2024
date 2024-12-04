@@ -1,0 +1,6 @@
+example_id                  | status | run_time        |
+--------------------------- | ------ | --------------- |
+./spec/day03_spec.rb[1:1:1] | passed | 0.00162 seconds |
+./spec/day03_spec.rb[1:1:2] | passed | 0.00339 seconds |
+./spec/day03_spec.rb[1:2:1] | passed | 0.00007 seconds |
+./spec/day03_spec.rb[1:2:2] | passed | 0.00067 seconds |
